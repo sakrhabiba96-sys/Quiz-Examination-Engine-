@@ -1,0 +1,24 @@
+# Project 05 - Quiz Engine
+
+Console quiz program written in Python.
+
+## Idea
+A basic terminal application that lets users select quiz topics, answer multiple-choice questions, and get a report at the end.
+
+## Features
+- Over 15 questions categorized by topic
+- Topic filter or full mixed test options
+- Input validation (accepts A, B, C, D)
+- Score calculation with topic breakdown
+- Retake option at the end
+
+## How to run
+Just execute the Python script from the terminal:
+python "project 5.py"
+
+(The run_quiz() function is called at the bottom of the file, so it starts automatically).
+
+## What We learned
+- Organizing logic into functions
+- Working with lists and dictionaries to hold question data
+- Handling invalid user input smoothly
